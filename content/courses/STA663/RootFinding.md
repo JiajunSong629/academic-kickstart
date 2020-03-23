@@ -7,7 +7,7 @@ date: "2019-05-05T00:00:00+01:00"
 draft: false
 menu:
   example:
-    parent: Example Topic
+    parent: Optimization
     weight: 1
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
@@ -26,7 +26,7 @@ $$f(x+\Delta x) \approx f(x) + (\Delta x)\frac{df}{dx}(x)+\frac{1}{2}(\Delta x)^
 
 $$f(x+\Delta x) \approx f(x) + (\Delta x)^T\nabla f+\frac{1}{2}(\Delta x)^TH(\Delta x)$$
  
-- m functions $f_1,\dots f_m$, n variables $x$
+- $m$ functions $f_1,\dots f_m$, $n$ variables $x$
 
 $$f(x+\Delta x) \approx f(x) + J(x)\Delta x$$
  
