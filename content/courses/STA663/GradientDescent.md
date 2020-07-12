@@ -99,7 +99,7 @@ for i in range(nsteps):
 
 To damp out oscillations, RMSprop (root mean squared prop) encourages large step in promising direction while making steps in other directions slower.
 
-To do so, RMSprop scales the learning rate in each direction by the square root of the exponentially weighted sum of squared gradients. 
+To do so, RMSprop scales the learning rate in each direction by the square root of the exponentially weighted sum of squared gradients.
 
 $$s_0 = 0$$
 
