@@ -36,3 +36,4 @@ Hi, this is my first post.
 
 - :smile: [**Get Started**](https://sourcethemes.com/academic/docs/)
 - :hushed: [**Example Site**](https://github.com/gcushen/hugo-academic/tree/master/exampleSite)
+
