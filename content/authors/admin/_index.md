@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Master in Statistical Science
+role: M.S. in Statistical Science
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My interests include data science, natural language processing in 
+bio: Maths, Statistics, Data Science, Deep Learning, Visualization, Cooking, Movies...
 
 interests:
 - Data Science 
@@ -50,7 +50,7 @@ social:
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/jiajun-song-0336a518a/
+  link: https://www.linkedin.com/in/jiajun-song/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 #- icon: cv
@@ -66,4 +66,3 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
