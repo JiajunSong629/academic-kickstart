@@ -1,4 +1,4 @@
 ---
-title: Course materials
+title: Notes
 layout: docs
 ---

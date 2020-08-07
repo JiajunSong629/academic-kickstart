@@ -1,7 +1,7 @@
 ---
 # Course title, summary, and position.
 linktitle: Elements of Statistical Learning
-summary: Notes and reproducible example on ESL
+summary: Notes and reproducible examples on ESL
 weight: 2
 
 

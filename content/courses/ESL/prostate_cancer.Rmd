@@ -1,6 +1,6 @@
 ---
-title: "Prostate cancer example"
-linktitle: "Prostate cancer example"
+title: "Prostate Cancer example"
+linktitle: "Prostate Cancer example"
 date: "2020-05-11"
 output:
   blogdown::html_page:
