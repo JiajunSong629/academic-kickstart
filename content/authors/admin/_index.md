@@ -21,7 +21,6 @@ organizations:
 bio: Maths, Statistics, Data Science, Deep Learning, Visualization, Cooking, Movies...
 
 interests:
-- Causal Inference
 - Statistical Modeling
 
 education:

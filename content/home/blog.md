@@ -67,8 +67,10 @@ subtitle = ""
  css_class = ""
 +++
 
-### A list of study notes I maintain:
+### A list of study notes I am maintaining:
 
 - [Probability and Statistics](https://jiajunsong629.github.io/probability-and-statistics)
 - [Causal Inference](https://jiajunsong629.github.io/causal-inference)
+- [Survival Analysis](https://jiajunsong629.github.io/survival-analysis)
+- [Mining of Massive Datasets](https://jiajunsong629.github.io/mining-of-massive-datasets)
 - [Elements of Statistical Learning](https://www.google.com)
